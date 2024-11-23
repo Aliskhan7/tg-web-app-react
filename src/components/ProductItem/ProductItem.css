@@ -15,10 +15,18 @@
     background: var(--tg-theme-button-color);
 }
 
+.title{
+    color: var(--tg-theme-text-color);
+ }
+
 .description {
     font-size: 0.8em;
+    color: var(--tg-theme-text-color);
 }
 
 .add-btn {
     width: 100%;
+}
+.price{
+    color: var(--tg-theme-text-color);
 }
